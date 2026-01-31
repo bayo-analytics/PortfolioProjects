@@ -36,7 +36,7 @@ The dashboard provides interactive insights into:
 - Countries with the highest infection rates
 - Trends filtered by country and date
 
- # Live Dashboard:
+ ## Live Dashboard:
  
 https://public.tableau.com/app/profile/taofiq.arogundade/viz/CovidDashboard_17697786612690/Dashboard1?publish=yes
 
@@ -50,10 +50,12 @@ https://public.tableau.com/app/profile/taofiq.arogundade/viz/CovidDashboard_1769
 
 ## Conclusion
 
-This analysis highlights the key patterns of the COVID pandemic across countries and continents, including trends in cases, deaths and infection rates. It shows how the impact of the virus varied between regions and over time, providing a clear picture of global COVID dynamics and the differences in outcomes between countries.
+This analysis highlights the key patterns of the COVID pandemic across countries and continents, including trends in cases, deaths and infection rates. It shows how the impact of the virus varied between regions and over time, providing a clear picture of global COVID dynamics and the differences in outcomes between countries. Thank you for viewing this project. I completed this project to showcase my data analysis skills using a data set from a real organization called "Our World in Data". I am actively seeking data analyst roles and I am open to new opportunities. If you are interested in discussing opportunities or have any feedback, I would love to hear from you.
 
 ## Contact me
 
 Email: arogundadeadebayo06@gmail.com
+
+LinkedIn: https://www.linkedin.com/in/taofiq-arogundade-388172242?utm_source=share&utm_campaign=share_via&utm_content=profile&utm_medium=android_app
 
 LinkedIn: 
