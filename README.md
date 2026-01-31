@@ -26,8 +26,7 @@ SQL was used to:
 ## Tableau Dashboard
 
 <p align="center">
-  <img src="images/dashboard_overview.png"
-width="800">
+  <img src="images/dashboard_overview.png" width="800">
 </p>
 
 The dashboard provides interactive insights into:
@@ -57,5 +56,3 @@ This analysis highlights the key patterns of the COVID pandemic across countries
 Email: arogundadeadebayo06@gmail.com
 
 LinkedIn: https://www.linkedin.com/in/taofiq-arogundade-388172242?utm_source=share&utm_campaign=share_via&utm_content=profile&utm_medium=android_app
-
-LinkedIn: 
