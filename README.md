@@ -26,7 +26,7 @@ SQL was used to:
 ## Tableau Dashboard
 
 <p align="center">
-  <img src="images/dashboard_overview.png" width="800">
+  <img src="https://github.com/bayo-analytics/PortfolioProjects/blob/main/dashboard_overview.png" width="800">
 </p>
 
 The dashboard provides interactive insights into:
