@@ -1,5 +1,7 @@
 # COVID Data Analysis (SQL & Tableau)
 
+A SQL project analyzing two (2) years' worth of data of COVID infection. The dataset includes new cases, new deaths,  
+
 ## Project Overview
 
 This project analyzes global COVID data to uncover trends in confirmed cases, deaths, and vaccinations across contries and over time. SQL was used for data cleaning, transformation, and analysis, while Tableau was used to build an interactive dashboard for visualization.
@@ -12,7 +14,7 @@ This project analyzes global COVID data to uncover trends in confirmed cases, de
 
 ## Dataset
 
-The dataset in use contains detailed information about COVID-19, sourced from "Our World in Data". It encompasses a diverse range of data points related to the cases, deaths, vaccination data, countries, and date information of COVID. The dataset covers the total cases, total deaths, death percentage, and percentage population infected across all countries. This dataset serves as an invaluable resource for individuals seeking to practice data analysis techniques.
+The dataset in use contains detailed information about COVID, sourced from "Our World in Data". It encompasses a diverse range of data points related to the cases, deaths, vaccination data, countries, and date information of COVID. The dataset covers the total cases, total deaths, death percentage, and percentage population infected across all countries. This dataset serves as an invaluable resource for individuals seeking to practice data analysis techniques.
 
 ## SQL Analysis
 
