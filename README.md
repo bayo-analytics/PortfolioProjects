@@ -2,15 +2,21 @@
 
 A SQL project analyzing two (2) years' worth of data of COVID infection. The dataset includes new cases, new deaths, infection rate, vaccination data and infected countries. It tracks the cases data, infection and death rates, and all the countries or continents infected to support detailed analysis.
 
+## Table of Contents
+
+- [Project Overview](https://github.com/bayo-analytics/COVID_Analysis_Project/blob/main/README.md#project-overview)
+- [Tools & Technologies](https://github.com/bayo-analytics/COVID_Analysis_Project/edit/main/README.md#tools--technologies)
+- [Dataset](https://github.com/bayo-analytics/COVID_Analysis_Project/edit/main/README.md#dataset)
+- [SQL Analysis](https://github.com/bayo-analytics/COVID_Analysis_Project/edit/main/README.md#sql-analysis)
+- [Tableau Dashboard](https://github.com/bayo-analytics/COVID_Analysis_Project/edit/main/README.md#tableau-dashboard)
+- [Key Insights](https://github.com/bayo-analytics/COVID_Analysis_Project/edit/main/README.md#key-insights)
+- [Conclusion](https://github.com/bayo-analytics/COVID_Analysis_Project/edit/main/README.md#conclusion)
+
+
 ## Project Overview
 
 This project analyzes global COVID data to uncover trends in confirmed cases, deaths, and vaccinations across contries and over time. SQL was used for data cleaning, transformation, and analysis, while Tableau was used to build an interactive dashboard for visualization.
-
-## Table of Contents
-
-- [Project overview] (https://github.com/bayo-analytics/COVID_Analysis_Project/blob/main/README.md#project-overview)
-- 
-
+ 
 ## Tools & Technologies
 
 - SQL
