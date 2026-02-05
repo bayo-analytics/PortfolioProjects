@@ -8,6 +8,7 @@ This project analyzes global COVID data to uncover trends in confirmed cases, de
 
 ## Table of Contents
 
+- [Project overview] (https://github.com/bayo-analytics/COVID_Analysis_Project/blob/main/README.md#project-overview)
 - 
 
 ## Tools & Technologies
